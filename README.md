@@ -8,6 +8,11 @@ Web developer in training with hands-on experience from HackYourFuture. Learning
 - 🛠 Working on: my portfolio
 - 📫 Reach me at: yuusuf98@outlook.com
 
+🔸 Strong focus on HTML, CSS, JavaScript, and MySQL  
+🔸 Learning full-stack development through hands-on weekly projects  
+🔸 Passionate about good structure, clean code, and lifelong learning  
+🔸 Based in Denmark 🇩🇰
+
 ---
 
 ### 🧰 Tech Stack
