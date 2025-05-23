@@ -1,15 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Yuusuf Roble
 
-Ganja0003/Ganja0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring FullStack Developer | Student at Coding Bootcamp
 
-Here are some ideas to get you started:
+Web developer in training with hands-on experience from HackYourFuture. Learning by building and always curious about new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: yuusuf98@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 Learning at HackYourFuture
+- 🛠 Working on: my portfolio
+- 📫 Reach me at: robleyusuf@gmail.com
 
+---
+
+### 🛠️ Skills
+
+
+### 📊 GitHub Stats
+
+![Yuusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganja0003&show_icons=true&theme=default)
+
+---
+
+### 🌐 Links
+
+- 📘 [LinkedIn](https://www.linkedin.com/in/yuusuf-roble-121192290/)
+- 💼 [HackYourFuture](https://www.hackyourfuture.net/)
