@@ -38,7 +38,6 @@ Web developer in training with hands-on experience from HackYourFuture Bootcamp.
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Ganja0003&show_icons=true&theme=github_dark&count_private=true"/>
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganja0003&layout=compact&theme=github_dark"/>
   <br />
 
