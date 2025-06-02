@@ -4,7 +4,7 @@
 
 Web developer in training with hands-on experience from HackYourFuture Bootcamp. Learning by building and always curious about new technologies.
 
-- 🎓 Learning at HackYourFuture Denmark
+- 🎓 Learning at: [HackYourFuture](https://www.hackyourfuture.dk/)
 - 🛠 Working on: My portfolio
 - 📫 Reach me at: yuusuf98@outlook.com
 
@@ -41,12 +41,3 @@ Web developer in training with hands-on experience from HackYourFuture Bootcamp.
   <img src="https://github-readme-stats.vercel.app/api?username=Ganja0003&show_icons=true&theme=github_dark&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganja0003&layout=compact&theme=github_dark"/>
   <br />
-
-
-
----
-
-### 🌐 Links
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yuusuf-roble-121192290/)
-- 🎓/💻 [HackYourFuture](https://www.hackyourfuture.dk/)
